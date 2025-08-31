@@ -1,0 +1,5 @@
+folder_path = "input"
+verbose = false
+latency = 500
+filter = []
+protocols = ["vmess", "vless", "trojan"]

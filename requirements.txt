@@ -1,1 +1,4 @@
 tqdm
+aiohttp
+aiofiles
+aiopath
